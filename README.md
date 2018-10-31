@@ -1,2 +1,4 @@
 # hello-world
-first repository
+ 
+Hi everyone,
+ Jayadeep here. I like coding.
